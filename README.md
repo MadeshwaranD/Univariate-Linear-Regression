@@ -47,6 +47,8 @@ plt.show()
 
 ```
 ## Output
+
+
 </br>
 </br>
 </br>
